@@ -1,2 +1,3 @@
 # jogo
-Um quadrado q circula toda a tela do canvas
+exemplo basico  de desenha no canvas e animar
+ uma sprite
